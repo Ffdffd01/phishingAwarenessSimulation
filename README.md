@@ -24,12 +24,12 @@ First, clone this repository to your local machine to get started:
 ```bash
 git clone https://github.com/Ffdffd01/phishingAwarenessSimulation.git
 
-#### 2. Set up the project
+### 2. Set up the project
 Once you've cloned the project, follow these simple steps to get everything set up:
 - Install the necessary dependencies.
 - Run the simulation locally to experience phishing awareness firsthand.
 
-##### 3. Run the simulation
+### 3. Run the simulation
 To launch the simulation, simply follow the instructions provided in the repository. It's as easy as starting the app and going through the phishing scenarios!
 
 How It Works
