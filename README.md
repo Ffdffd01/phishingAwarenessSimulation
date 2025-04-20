@@ -23,7 +23,7 @@ First, clone this repository to your local machine to get started:
 
 ```bash
 git clone https://github.com/Ffdffd01/phishingAwarenessSimulation.git
-
+```
 ### 2. Set up the project
 Once you've cloned the project, follow these simple steps to get everything set up:
 - Install the necessary dependencies.
